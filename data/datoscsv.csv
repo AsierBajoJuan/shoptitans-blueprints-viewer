@@ -1,0 +1,41 @@
+name,url,category,subtype,subtype_name_en,subtype_name_es,tier,tier_source,value,crafting_time,merchant_xp,worker_xp,is_premium,premium_tags
+Ahi Poke Bowl,https://playshoptitans.com/blueprints/accessories/fm/ahipoke,accessories,fm,food,comida,7,tierValue,77500,1h 40m M,23500,706,False,
+Gua Bao,https://playshoptitans.com/blueprints/accessories/fm/baobun,accessories,fm,food,comida,4,tierValue,4500,13m 30s M,6450,194,False,
+Power-Up Pie,https://playshoptitans.com/blueprints/accessories/fm/arcademeal,accessories,fm,food,comida,6,tierValue,31000,1h 10m M,18500,556,True,"antiques_shop,package"
+Bacon and Eggs,https://playshoptitans.com/blueprints/accessories/fm/baconeggs,accessories,fm,food,comida,3,tierValue,2400,8m 10s M,4200,126,False,
+Troublin Bento,https://playshoptitans.com/blueprints/accessories/fm/bento,accessories,fm,food,comida,14,tierValue,12000000,84h 50m M,305000,9150,True,antiques_shop
+Cheeseburger,https://playshoptitans.com/blueprints/accessories/fm/burger,accessories,fm,food,comida,6,tierValue,25500,50m M,16500,496,False,
+Super Spicy Curry,https://playshoptitans.com/blueprints/accessories/fm/coconutcurry,accessories,fm,food,comida,9,tierValue,315000,5h M,48500,1456,False,
+Pepper Dolma,https://playshoptitans.com/blueprints/accessories/fm/arabianmeal,accessories,fm,food,comida,5,tierValue,16500,40m M,14500,436,True,"antiques_shop,package"
+Family Stew,https://playshoptitans.com/blueprints/accessories/fm/cozymeal,accessories,fm,food,comida,14,tierValue,12500000,84h 50m M,305000,9150,True,"antiques_shop,package"
+Jambon du Donjon,https://playshoptitans.com/blueprints/accessories/fm/cookingmeal,accessories,fm,food,comida,14,tierValue,12000000,71h 10m M,290000,8700,True,"antiques_shop,package"
+Packed Takeout,https://playshoptitans.com/blueprints/accessories/fm/cybermeal,accessories,fm,food,comida,9,tierValue,385000,7h M,52500,1576,True,"antiques_shop,package"
+Ruler's Feast,https://playshoptitans.com/blueprints/accessories/fm/darkmeal,accessories,fm,food,comida,15,tierValue,18500000,133h 50m M,340000,10200,True,"antiques_shop,package"
+Zongzi Snack,https://playshoptitans.com/blueprints/accessories/fm/dragonmeal,accessories,fm,food,comida,5,tierValue,13500,40m M,14500,436,True,antiques_shop
+Very Hot Pot,https://playshoptitans.com/blueprints/accessories/fm/firecrabmeal,accessories,fm,food,comida,13,tierValue,5650000,41h 50m M,250000,7500,True,"antiques_shop,package"
+Crispy Roast Duck,https://playshoptitans.com/blueprints/accessories/fm/fallmeal,accessories,fm,food,comida,13,tierValue,5750000,41h 50m M,250000,7500,True,"antiques_shop,package"
+Horrorbowl,https://playshoptitans.com/blueprints/accessories/fm/halloweenmeal,accessories,fm,food,comida,10,tierValue,880000,12h M,65000,1950,True,antiques_shop
+Rime & Dine,https://playshoptitans.com/blueprints/accessories/fm/fireicemeal,accessories,fm,food,comida,8,tierValue,240000,4h 30m M,38000,1140,True,"antiques_shop,package"
+Opulent Tamales,https://playshoptitans.com/blueprints/accessories/fm/goldmeal,accessories,fm,food,comida,12,tierValue,5650000,24h 30m M,210000,6300,False,
+Veggie Kebabs,https://playshoptitans.com/blueprints/accessories/fm/kebabs,accessories,fm,food,comida,10,tierValue,670000,10h M,60500,1816,False,
+Steamed Sea Bass,https://playshoptitans.com/blueprints/accessories/fm/lunarmeal,accessories,fm,food,comida,11,tierValue,1600000,17h 10m M,110000,3300,True,antiques_shop
+Creamy Scallops,https://playshoptitans.com/blueprints/accessories/fm/newyearmeal,accessories,fm,food,comida,7,tierValue,90000,2h M,26000,780,True,"antiques_shop,package"
+Sugar Shack Special,https://playshoptitans.com/blueprints/accessories/fm/maplemeal,accessories,fm,food,comida,5,tierValue,10500,34m M,12500,376,True,"antiques_shop,package"
+Shepherd's Pie,https://playshoptitans.com/blueprints/accessories/fm/patechinois,accessories,fm,food,comida,5,tierValue,11000,34m M,12500,376,True,antiques_shop
+Margherita Pizza,https://playshoptitans.com/blueprints/accessories/fm/pizza,accessories,fm,food,comida,6,tierValue,30500,1h 10m M,18500,556,True,"antiques_shop,package"
+CosmOs Cereals,https://playshoptitans.com/blueprints/accessories/fm/spacemeal,accessories,fm,food,comida,4,tierValue,7600,17m M,7800,234,True,antiques_shop
+Poutine,https://playshoptitans.com/blueprints/accessories/fm/poutine,accessories,fm,food,comida,5,tierValue,10500,27m 30s M,11000,330,False,
+Deluxe Ramen,https://playshoptitans.com/blueprints/accessories/fm/ramen,accessories,fm,food,comida,11,tierValue,1400000,14h 20m M,105000,3150,False,
+Sushi,https://playshoptitans.com/blueprints/accessories/fm/sushi,accessories,fm,food,comida,8,tierValue,195000,3h 40m M,34500,1036,False,
+Pot of Paella,https://playshoptitans.com/blueprints/accessories/fm/t13meal,accessories,fm,food,comida,13,tierValue,5450000,41h 50m M,250000,7500,False,
+Huli-Huli Chicken,https://playshoptitans.com/blueprints/accessories/fm/t12meal,accessories,fm,food,comida,12,tierValue,2850000,24h 30m M,210000,6300,False,
+Mirza Ghasemi,https://playshoptitans.com/blueprints/accessories/fm/t14meal,accessories,fm,food,comida,14,tierValue,10500000,71h 10m M,290000,8700,False,
+Dino Nuggies,https://playshoptitans.com/blueprints/accessories/fm/t15meal,accessories,fm,food,comida,15,tierValue,17500000,133h 50m M,340000,10200,False,
+Tournedos Rossini,https://playshoptitans.com/blueprints/accessories/fm/valentinemeal,accessories,fm,food,comida,7,tierValue,91000,2h M,26000,780,True,"antiques_shop,package"
+Holiday Ham,https://playshoptitans.com/blueprints/accessories/fm/yulemeal,accessories,fm,food,comida,8,tierValue,235000,4h 30m M,38000,1140,True,"antiques_shop,package"
+Teatime Snack,https://playshoptitans.com/blueprints/accessories/fm/wonderlandmeal,accessories,fm,food,comida,13,tierValue,5900000,50h M,265000,7950,True,"antiques_shop,package"
+Mintyleaf Herb,https://playshoptitans.com/blueprints/accessories/uh/antidote,accessories,uh,herbal medicine,medicina herbaria,1,tierValue,180,1m M,455,7,False,
+Cinderlake Chompers,https://playshoptitans.com/blueprints/accessories/uh/blackfridayherb,accessories,uh,herbal medicine,medicina herbaria,8,tierValue,225000,4h 30m M,35500,533,True,"antiques_shop,package"
+Sakura Infusion,https://playshoptitans.com/blueprints/accessories/uh/blossomherb,accessories,uh,herbal medicine,medicina herbaria,12,tierValue,3000000,23h 50m M,195000,2925,True,"antiques_shop,package"
+Bloodvine,https://playshoptitans.com/blueprints/accessories/uh/bloodvine,accessories,uh,herbal medicine,medicina herbaria,6,tierValue,24500,50m M,15500,233,False,
+Fragrant Bouquet,https://playshoptitans.com/blueprints/accessories/uh/bouquet,accessories,uh,herbal medicine,medicina herbaria,6,tierValue,37000,1h M,17500,263,True,"antiques_shop,package"
